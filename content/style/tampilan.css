@@ -1,0 +1,14 @@
+body{
+    background-image: url('img/gambar4.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -50px;
+}
+.content{
+    color: white;
+    height: 450px;
+    padding-bottom: 550px;
+    text-shadow: 100px;
+    padding: 15%;
+    text-align: center;
+}
